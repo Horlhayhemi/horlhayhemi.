@@ -1,0 +1,22 @@
+body{
+    background: url(bg.png);
+   background-size: cover;
+   repeat:no repeat; 
+   opacity: 70%;
+
+}
+
+form{
+    background-color: black;
+    margin: 300px;
+    padding: 100px;
+    color: wheat;
+    width:900px;
+}
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid green;
+    color: aliceblue;
+
+}

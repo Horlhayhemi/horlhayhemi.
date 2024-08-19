@@ -1,0 +1,20 @@
+body{
+    background: url(bg.png);
+   background-size: cover;
+   opacity: 70%;
+
+}
+
+form{
+    background-color: black;
+    margin: 200px;
+    padding: 100px;
+    color: aqua;
+}
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid green;
+    color: aliceblue;
+
+}

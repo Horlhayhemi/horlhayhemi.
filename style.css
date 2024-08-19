@@ -1,0 +1,37 @@
+body{
+    background: url(IMG_0343.JPG);
+   background-size: cover;
+   opacity: 70%;
+
+}
+
+form{
+    background-color: black;
+    margin: 200px;
+    padding: 100px;
+    color: aqua;
+    margin-top: 15%;
+margin: 150px;
+
+
+}
+input{
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid pink;
+    color: aliceblue;
+
+}
+h1{
+    font-size: 50PX;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+.sss3{
+    height: 150px;
+    margin: auto;
+    place-items: center;
+    display: grid;
+    
+}

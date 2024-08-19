@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(225, 21%, 69%);   
+}
+.sch{
+    text-align: center;
+    box-shadow: 1px 2px 3px 4px rgba(20, 20, 20, 0.3);
+    width: 350px;
+}
+.mrr{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+}
+.some{
+     
+    background-color: whitesmoke;
+    width: 320px;
+    border: none;
+    height: 24px;
+    border-radius: 20px;
+}
+.me{
+    background-color: blue;
+}
